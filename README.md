@@ -600,7 +600,8 @@ Sponsorship helps fund:
 
 The core project remains open source.
 
-[❤️ Sponsor this project]([https://github.com/sponsors/YOUR_USERNAME](https://github.com/bybaochaule))
+[❤️ Sponsor this project] https://github.com/bybaochaule
+
 
 ---
 
